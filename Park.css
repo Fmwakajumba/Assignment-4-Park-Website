@@ -1,0 +1,148 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top a {color: darkgreen;}
+
+.top-links a {color: darkgreen;}
+a {text-decoration: none;}
+
+
+div[id="top"] {
+    background-color: white;
+    margin-top: -1rem;
+    padding-top: 1.5rem;
+    background-size: cover;
+    margin-bottom: -1rem;
+}
+
+.Menu {
+    padding-left: 7rem;
+    font-size: 4rem;
+}
+
+nav {
+    display: block;
+    color: darkgreen;
+}
+
+nav li {
+    display: inline;
+}
+
+.top-links {
+    text-align: right;
+    margin-top: -1rem;
+    padding-right: 5rem;
+
+}
+
+.col-lg-5 {
+    text-align: center;
+    color: darkgreen;
+    font-size: x-large;
+    line-height: 3rem;
+}
+
+.col-lg-5 h5 {
+    text-align: center;
+    color: darkgreen;
+    font-size: x-large;
+    line-height: 3rem;
+}
+.row-2{
+    background-color: darkgreen;
+}
+
+.row-2 .row .col-md-12 h5 a {
+    color: white;
+}
+
+.row-2 {
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    padding-top: 2rem;
+}
+
+.row-3 {
+    background-color: darkgreen;
+    padding-bottom: 3rem;
+}
+
+.row-4 .row .col-md-12 h5 a {
+    color: darkgreen;
+}
+
+.row-4 {
+    text-align: center;
+    color: darkgreen;
+}
+
+.row-6 .row .col-md-12 h5 a {
+    color: white;
+}
+
+.row-6 {
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    padding-top: 2rem;
+}
+
+.row-7 {
+    background-color: darkgreen;
+    padding-bottom: 3rem;
+}
+
+.row-8 .row .col-md-12 h5 a {
+    color: darkgreen;
+}
+
+.row-8 {
+    text-align: center;
+    color: darkgreen;
+}
+
+div[id="bottom"] {
+    background-color: darkgreen;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+.grid-container {
+    color: white;
+    padding-top: 5rem;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+    display: grid;
+    grid-template-columns: repeat(4,375px);
+    grid-column-gap: 7rem;
+    margin-bottom: -1rem;
+    letter-spacing: 1px;
+}
+
+.grid-item-1 {
+    margin-top: 2rem;
+}
+
+
+.icon {
+    color: white;
+    background-color: darkgreen;
+    font-size: larger;
+
+}
+
+button:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    margin-bottom: 3rem;
+
+}
